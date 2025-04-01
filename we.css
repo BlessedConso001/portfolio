@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(back.jpg);
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-position: center center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Ensures the body covers the full height of the viewport */
+    margin: 0; /* Removes any default margin */
+    text-align: center;
+}
+header {
+    background: linear-gradient(90deg, #4CAF50, #2E8B57);
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+.card {
+    background: white;
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-top: 5px solid;
+}
+.profile-img {
+    width: 120px;x
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.about { border-top-color: #4CAF50; }
+.interests { border-top-color: #FF9800; }
+.projects { border-top-color: #2196F3; }
+.resume { border-top-color: #9C27B0; }
+.contact { border-top-color: #FF5722; }
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.card contact-form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+label {
+    font-weight: bold;
+    text-align: left;
+    display: block;
+    margin: 8px 0;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background: #0056b3;
+}
+</style>
