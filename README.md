@@ -29,15 +29,13 @@ To explore this portfolio website on your local machine:
 1. Clone the repository to your local device:
 
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/BlessedConso001/portfolio-website.git
     ```
 
 2. Open the `index.html` file in any web browser to view the website.
 
 ## Contact
 
-Feel free to reach out to me via email at **your.email@example.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
-## License
+Feel free to reach out to me via email at **mugoconsolata70your.email@example.com
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
