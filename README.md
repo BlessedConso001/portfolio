@@ -36,6 +36,5 @@ To explore this portfolio website on your local machine:
 
 ## Contact
 
-Feel free to reach out to me via email at **mugoconsolata70your.email@example.com
+Feel free to reach out to me via email at *mugoconsolata70@gmail.com
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
